@@ -10,10 +10,9 @@
       "name": "paper-search-skills",
       "source": "./",
       "description": "Teller-Lu paper-search-skills for Claude",
-      "version": "1.1.0",
+      "version": "1.0.0",
 	  "author": {
-        "name": "Teller-Lu",
-		"cookjohn"
+        "name": "Teller-Lu"
       }
     }
   ]
