@@ -1,9 +1,10 @@
 {
   "name": "paper-search-skills",
   "description": "论文搜索技能，覆盖cnki，google scholar，sciencedirect, Web of Science",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "author": { 
-  "name": "Teller-Lu"
+  "name": "Teller-Lu",
+  "cookjohn"
   },
   "homepage": "https://github.com/Teller-Lu/paper-search-skills",
   "repository": "https://github.com/Teller-Lu/paper-search-skills",
