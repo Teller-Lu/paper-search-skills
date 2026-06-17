@@ -1,0 +1,19 @@
+{
+  "name": "paper-search-skills",
+  "description": "论文搜索技能，覆盖cnki，google scholar，sciencedirect, Web of Science",
+  "owner": {
+  "name": "Teller",
+  "email":"tellerlu@163.com"
+  },
+  "plugins": [
+    {
+      "name": "paper-search-skills",
+      "source": "./",
+      "description": "Teller-Lu paper-search-skills for Claude",
+      "version": "1.0.0",
+	  "author": {
+        "name": "Teller-Lu"
+      }
+    }
+  ]
+}
